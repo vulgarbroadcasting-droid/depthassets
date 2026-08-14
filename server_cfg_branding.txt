@@ -1,0 +1,7 @@
+# DEPTH RP branding
+# Put depth_server_icon_96.png in the same folder as server.cfg
+load_server_icon depth_server_icon_96.png
+
+# Upload the banner PNG publicly, then replace these URLs:
+sets banner_detail "https://YOUR-DOMAIN/depth_banner_detail_1920x200.png"
+sets banner_connecting "https://YOUR-DOMAIN/depth_banner_connecting_1920x200.png"
